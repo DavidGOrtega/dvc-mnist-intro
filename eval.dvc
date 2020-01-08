@@ -4,11 +4,17 @@ outs:
   metric: true
   cache: false
   persist: false
+  md5: 488d0a541bc6d420b9dd52cc57cdcac9
 - path: metrics/vega_confusion_matrix.json
   metric: true
   cache: false
   persist: false
+  md5: 5d9ecb52c4a414193613df43733e25f4
 deps:
 - path: code/eval.py
+  md5: 3a6b48fabdd95856145dedab16822d6d
 - path: data
+  md5: b6c29e96813679dd8c451c9b5ca86e2c.dir
 - path: models
+  md5: a48159f1d58f6245a8b2f3203b4bd77c.dir
+md5: eae2128d6f3fd0632c3551bb1babab08
