@@ -9,23 +9,23 @@ outs:
   metric: false
   cache: true
   persist: false
-  md5: 7af651f78f5628dbd47f791d23014e7e.dir
+  md5: 77376d24b1eee820e50bab06115158eb.dir
 - path: metrics/train.json
   metric: true
   cache: false
   persist: false
-  md5: c664a994303953fb11f94326972f3b74
+  md5: 3b9d61f3f60dc340aaee5b89727a7d85
 - path: metrics/vega_acc.json
   metric: true
   cache: false
   persist: false
-  md5: d249244880f892fb7273fd4e0e416e25
+  md5: d1bdcb6f4bb4a755f35cd971763b0898
 - path: metrics/vega_loss.json
   metric: true
   cache: false
   persist: false
-  md5: 23a7fbc17f276389053edc97889a4ae5
+  md5: 4a750f67edfc2df369599fab38af0b07
 deps:
 - path: code/train.py
-  md5: 3c24f859484c8d8b4b3fe5a4f0aac145
-md5: cd6087c053b1e7311b39430fa970b3ff
+  md5: 49a3126ca981bd4337ebdd0a9b360a90
+md5: 0b91f904325070c8fbd311f7453b7c13
